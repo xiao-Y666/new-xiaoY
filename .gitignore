@@ -1,0 +1,5 @@
+# dist文件不保存
+dist/
+#忽略www下的文件
+www/**/*.pdf
+www/**/*.txt
